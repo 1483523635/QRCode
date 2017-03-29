@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCode", "QRCode\QRCode.csproj", "{0A781EC4-D45A-41A6-812F-A7FBCBEFA6A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二维码生成器", "二维码生成器\二维码生成器.csproj", "{A6104594-1312-4016-8D02-8153025F5CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A781EC4-D45A-41A6-812F-A7FBCBEFA6A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A781EC4-D45A-41A6-812F-A7FBCBEFA6A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A781EC4-D45A-41A6-812F-A7FBCBEFA6A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A781EC4-D45A-41A6-812F-A7FBCBEFA6A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6104594-1312-4016-8D02-8153025F5CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6104594-1312-4016-8D02-8153025F5CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6104594-1312-4016-8D02-8153025F5CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6104594-1312-4016-8D02-8153025F5CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

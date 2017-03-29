@@ -1,0 +1,9 @@
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\bin\Debug\二维码生成器.exe.config
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\bin\Debug\二维码生成器.exe
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\bin\Debug\二维码生成器.pdb
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\obj\Debug\二维码生成器.csprojResolveAssemblyReference.cache
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\obj\Debug\二维码生成器.Form1.resources
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\obj\Debug\二维码生成器.Properties.Resources.resources
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\obj\Debug\二维码生成器.csproj.GenerateResource.Cache
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\obj\Debug\二维码生成器.exe
+D:\Users\Dinger\Desktop\QRCode\二维码生成器\obj\Debug\二维码生成器.pdb
